@@ -1,0 +1,11 @@
+{
+    "name": "cloudindex",
+    "description": "Produce SDF index files for AWS Cloud Search from Jekyll posts",
+    "author": "dhcole",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x",
+        "underscore": "*"
+    },
+    "private": true
+}
